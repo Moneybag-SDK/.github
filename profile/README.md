@@ -1,12 +1,5 @@
-## Hi there 👋
+# Welcome to Moneybag SDK Hub
 
-<!--
+Moneybag offers a diverse collection of integration tools, including plugins, modules, and SDKs in various programming languages and frameworks to support developers. Our solution enables merchants and their development teams to seamlessly incorporate Moneybag's financial services into websites, applications, and mobile platforms.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+With Moneybag, developers can easily implement payment gateway functionality into their projects and utilize our sandbox environment to thoroughly test payment flows before going live.
