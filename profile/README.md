@@ -27,7 +27,6 @@ Moneybag provides comprehensive payment integration solutions through our divers
 |--------|----------|-------------|-----------------|
 | [moneybag-plugin-woocommerce](https://github.com/Moneybag-SDK/moneybag-plugin-woocommerce) | WooCommerce | [WordPress Plugin Directory](https://wordpress.org/plugins/moneybag-payment-gateway/) | WooCommerce 5.0+ |
 | [moneybag-plugin-opencart](https://github.com/Moneybag-SDK/moneybag-plugin-opencart) | OpenCart | [OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=xxxxx) | OpenCart 3.0+ |
-| [moneybag-plugin-whmcs](https://github.com/Moneybag-SDK/moneybag-plugin-whmcs) | WHMCS | [WHMCS Marketplace](https://marketplace.whmcs.com/product/xxxxx) | WHMCS 8.0+ |
 | [moneybag-plugin-prestashop](https://github.com/Moneybag-SDK/moneybag-plugin-prestashop) | PrestaShop | [PrestaShop Addons](https://addons.prestashop.com/en/payment-card-wallet/xxxxx-moneybag.html) | PrestaShop 1.7+ |
 | [moneybag-plugin-magento2](https://github.com/Moneybag-SDK/moneybag-plugin-magento2) | Magento 2 | [Magento Marketplace](https://marketplace.magento.com/moneybag-payment.html) | Magento 2.4+ |
 
