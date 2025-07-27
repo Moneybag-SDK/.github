@@ -33,7 +33,7 @@ Moneybag provides comprehensive payment integration solutions through our divers
 ## 🧪 Sandbox Environment
 
 Test your integration thoroughly using our sandbox environment before going live:
-- **Base URL**: `https://staging-api.moneybag.com.bd/api/v2`
+- **Base URL**: `https://sandbox.api.moneybag.com.bd/api/v2`
 - **Test Credentials**: Available in your merchant dashboard
 - **Test Cards**: See documentation for test payment methods
 
