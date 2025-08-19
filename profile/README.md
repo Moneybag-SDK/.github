@@ -42,7 +42,7 @@ Test your integration thoroughly using our sandbox environment before going live
 - 📖 **[API Documentation](https://github.com/Moneybag-SDK/docs)** - Complete API reference and integration guides
 - 🔧 **[REST API Reference](https://github.com/Moneybag-SDK/docs/blob/main/rest-api-integraion.md)** - Direct API integration documentation
 - 💡 **[Integration Examples](https://github.com/Moneybag-SDK/examples)** - Sample implementations and best practices
-- 🎯 **[Postman Collection](https://github.com/Moneybag-SDK/docs)** - Test API endpoints directly
+- 🎯 **[API Playground](https://docs.moneybag.com.bd/api-playground)** - Test API endpoints directly
 
 ## 🔑 Key Features
 
