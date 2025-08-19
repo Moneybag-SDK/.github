@@ -65,7 +65,7 @@ We welcome contributions from the community! Please check each SDK's CONTRIBUTIN
 
 Need help with integration? We're here to assist:
 
-- 📧 **Email**: [info@fitl.com.bd](mailto:info@fitl.com.bd)
+- 📧 **Email**: [developer@moneybag.com.bd](mailto:developer@moneybag.com.bd)
 - 🌐 **Website**: [www.moneybag.com.bd](https://www.moneybag.com.bd)
 - 💬 **Developer Forum**: Coming soon
 - 🐛 **Issues**: Use GitHub Issues in the relevant SDK repository
